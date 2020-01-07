@@ -1,1 +1,1 @@
-Tentativa de implementar Game usando JavaScript e Python
+Tentativa de implementar Game usando JavaScript e Python. Código baseado no trabalo do Filipe Deschamps(https://github.com/filipedeschamps)
