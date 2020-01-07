@@ -1,4 +1,6 @@
-Tentativa de implementar Game usando JavaScript e Python.
+# Tentativa de implementar Game usando JavaScript para o frontend e Python para o backend.
+
+
 
 Código baseado no trabalho do [Filipe Deschamps](https://github.com/filipedeschamps).
 
